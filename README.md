@@ -1,4 +1,11 @@
 # SnakeWaterGun
- This is a command line desktop game, which imitates the Snake, Water and Gun  game , which gives Nostalgic feelings
 
-This game has 10 rounds, it is the game between a player and computer.The player who wins the most number of rounds wins the game
+This project is a two player game , Player 1 is the user , where  as player 2 is computer
+Python version : 3.6
+ 
+## Executing insturction
+ 
+ ```bash
+python Excercise6.py 
+
+```
